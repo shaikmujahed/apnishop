@@ -37,6 +37,7 @@ Pillow==7.1.2
 psycopg2==2.8.4
 pyAudioProcessing==1.0
 pyparsing==2.4.6
+python==3.8.0
 python-dateutil==2.8.1
 pytz==2019.3
 qrcode==6.1
